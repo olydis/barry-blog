@@ -1,6 +1,6 @@
 
 # Turning Poetry into Prose
-
+## Barry Jay
 ### 2024-12-09
 
 Hi everyone! I'm going to write about tree calculus and intensional
@@ -103,7 +103,7 @@ Node Node y z --> y
 
 yields the subtyping rule
 
-Fork Leaf Y  < Z -> Y
+Fork Leaf Y   <   Z -> Y
 
 **Tricky programs are typed by hacking**
 
